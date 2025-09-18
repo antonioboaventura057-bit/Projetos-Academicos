@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;     
+}
+
+/* Index */
+
+/* Titulos */
+h1{
+    font-size: 200%;        
+}
+
+.centralizar{
+    text-align: center;
+    padding: 10px;    
+}
+
+.imagem{
+    padding: 10px; 
+    text-align: center;             
+}
+
+
+/* Footer */
+footer{
+    text-align: center;
+    position: fixed;
+    background-color: blue;
+    left: 0;
+    color: white;   
+    bottom: 0; 
+    padding: 15px;   
+    width: 100%;          
+}
+
+/* Header */
+li {
+    float: left;        
+}
+
+li a {
+    color: white;
+    display: block;
+    text-decoration: none;
+    text-align: center;    
+    padding: 18px 22px;    
+}
+
+ul {
+    background-color: blue; 
+    list-style-type: none;
+    overflow: hidden;
+}
+
+
+/* Botoes */
+.bordaBotao {
+    border-radius: 12px;
+}
+
+.centralizarBotao{
+    text-align: center;
+    padding: 5px;
+}
+
+.botao {
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    background-color: purple;   
+    font-size: 16px;       
+}
+
+button a{
+    text-decoration: none;
+    color: yellow;
+}
+
+.espacoCorBotao{
+    color: yellow;
+    margin: 10px;
+}
+
+
+/* Link */
+a{
+    text-decoration: none;
+}
+
+.estilosLink{
+    color: blue;
+    font-weight: bold;
+    padding: 5%;
+    font-size: larger;    
+}
+
+
+/* Tabelas */
+.estilosTabela{
+    margin: auto;
+    width: 90%;       
+}
+
+.alinhamentoColunaTabela{
+    text-align: center;
+    padding: 8px;
+}
+
+.corLinhaTabela{
+    background-color: purple;
+    color: yellow;
+}
+  
+th {    
+    color: white;
+    background-color: blue;
+    padding: 12px;
+    text-align: center;    
+}
+
+.alinhamentoCampo{
+    font-size: larger;
+    font-weight: bold;
+    text-align: right;
+    padding: 5px;       
+}
+
+.alinhamentoValor{
+    text-align: left;
+    padding: 5px;
+}
+
+.colunasIndex {
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;    
+    padding: 15px 100px;
+}
+
+.centralizarTabela{
+    margin: auto;
+}
+
+/* Botões Tabelas */
+.botaoTabela {
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    background-color: black;   
+    font-size: 16px;   
+}
+
+
+/* Formularios */
+form{
+    margin-left: 33%;
+}
+
+label{
+    font-size: larger;    
+}
+
+input[type=text] {
+    padding: 11px;
+    width: 50%;
+    border-bottom: 2px solid; 
+    margin: 5px;          
+}
+
+input[type=password] {
+    padding: 11px;
+    width: 50%;
+    border-bottom: 2px solid;
+    margin: 5px;       
+}
+
+input[type=tel] {
+    padding: 11px;
+    width: 50%;
+    border-bottom: 2px solid;
+    margin: 5px;             
+}
+
+input[type=file] {       
+    margin: 5px;
+    font-weight: bold;    
+    padding: 4px;       
+    font-size: 16px;     
+}
+
+select{
+    padding: 11px;
+    width: 53%;
+    margin: 5px;
+    border-bottom: 2px solid;    
+}
+
+
+/* Erro de Login */
+.falhaLogin{    
+    font-size: larger;
+    margin-left: 5%;    
+}
+
+.margemBotao{
+    margin: 10px 70px;
+}
+
+
+/* Margem Tela de Login Sucesso */
+.margemTextoVoltar{
+    margin-left: 10.7%;    
+}
+
+.margemBotaoVoltar{
+    margin-left: 11%;
+}
