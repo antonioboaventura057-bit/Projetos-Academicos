@@ -15,6 +15,8 @@ Contatos:
 ## Projeto 1: Corrente Sanguínea - Website para doações de sangue em hemocentros
 Objetivo: TCC com foco em boas práticas de IHC\
 \
+Link do vídeo no YouTube: https://youtu.be/jFWSMdNLV5Q \
+\
 Tecnologias: MVC, UML, Protótipos de UI e UX
 \
 Ferramentas:
